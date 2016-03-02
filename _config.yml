@@ -1,0 +1,28 @@
+name: plantpop
+favicon: null
+layout_spectrum: 0.9126730882562697
+typography_spectrum: 0.09327589487656951
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4258645190857351
+  lightness: 0.720915175974369
+  saturation: 0.15164855937473476
+  rhythmicContrast: 0.15245654503814876
+purpose: []
